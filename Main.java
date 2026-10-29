@@ -32,6 +32,7 @@ public class Main {
 
     anim1.color = "sininen";
     anim1.laji = "Strutsi";
+    anim1.pituus = 4;
 
     anim1.naytaTiedot();
     }
