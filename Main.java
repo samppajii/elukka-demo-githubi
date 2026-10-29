@@ -10,13 +10,15 @@ public class Main {
 
         anim1.naytaTiedot();
 
-        
+        //Animal2 luonti (Meri)
         Animal animal2 = new Animal();
 
         animal2.laji = "Orava";
         animal2.color = "Oranssi";
         animal2.pituus = 24;
 
+        animal2.naytaTiedot();
+        animal2.kasvataPituutta();
         animal2.naytaTiedot();
 
   
