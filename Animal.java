@@ -4,10 +4,12 @@ public class Animal {
     public String laji;
     public String color;
     public int pituus;
+    public int nopeus;
 
     public void naytaTiedot() {
         System.out.println("Eläin: " + color + " " + laji);
-        System.out.println("pituus: " + pituus + " metriä");
+        System.out.println("pituus: " + pituus + " cm");
+        System.out.println("nopeus: " + nopeus + "km/h");
         
     }
 

@@ -1,6 +1,12 @@
 public class Main {
     public static void main(String[] args) {
 
+        Animal animal1 = new Animal();
+
+        animal1.laji = "Orava";
+        animal1.color = "Oranssi";
+        animal1.pituus = 24;
+        animal1.nopeus = 19;
     //     Auto auto1 = new Auto();
 
     //     auto1.merkki = "Toyta";
