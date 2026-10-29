@@ -30,9 +30,9 @@ public class Main {
 
     Animal anim1 = new Animal();
 
-    anim1.color = "pinkki";
+    anim1.color = "Pinkki";
     anim1.laji = "Strutsi";
-    anim1.pituus = 4;
+    anim1.pituus = 44;
 
     anim1.naytaTiedot();
     }
