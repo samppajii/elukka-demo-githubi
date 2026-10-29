@@ -1,12 +1,12 @@
 public class Main {
     public static void main(String[] args) {
 
-
+        //Animal1 luonti (Sami)
         Animal anim1 = new Animal();
 
         anim1.color = "Pinkki";
         anim1.laji = "Strutsi";
-        anim1.pituus = 44;
+        anim1.pituus = 144;
 
         anim1.naytaTiedot();
 
